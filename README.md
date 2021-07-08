@@ -1,5 +1,7 @@
-# vue-admin-template
+# online-edu-admin
+springcloud在线教育的后台管理系统页面部分
 
+<<<<<<< HEAD
 > 这是一个 极简的 vue admin 管理后台 它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 
 [线上地址](http://panjiachen.github.io/vue-admin-template)
@@ -94,3 +96,6 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+=======
+修改自vue-admin-template
+>>>>>>> e0d3e8ab938ede90eb9c4982d0ac629f77b452c8
